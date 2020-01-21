@@ -1,0 +1,27 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "A solution for managing a company's employees using node, inquirer, and MySQL.",
+  "main": "server.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.3",
+    "mysql": "^2.17.1",
+    "questions": "0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DRsiles92/Employee-Tracker.git"
+  },
+  "author": "Debbie Reategui Siles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DRsiles92/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/DRsiles92/Employee-Tracker#readme"
+}
